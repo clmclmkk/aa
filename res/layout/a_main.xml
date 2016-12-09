@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" android:background="@drawable/back3">
+    <TextView android:layout_height="wrap_content" android:id="@+id/textView1" android:layout_width="wrap_content" android:text="简易通讯簿" android:layout_gravity="fill_vertical|center" android:textColor="#111111"></TextView>
+    <TextView android:layout_height="wrap_content" android:id="@+id/textView2" android:layout_width="wrap_content" android:text="作者：陈露明" android:layout_gravity="fill_vertical|center" android:textColor="#111111"></TextView>
+    <TextView android:layout_height="wrap_content" android:id="@+id/textView3" android:layout_width="wrap_content" android:text="学号：124242010005" android:textColor="#111111" android:layout_gravity="fill_vertical|center"></TextView>
+    
+         
+</LinearLayout>
